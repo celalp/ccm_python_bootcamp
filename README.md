@@ -8,7 +8,7 @@ This repository contains material related to Summer 2023 introduction to python 
 
 You will need to install python. You can achieve this in 2 ways
 
-1. Install python using official package. Please select python 3.11. You can dowload the installer [here]([https://www.python.org/downloads/](https://www.python.org/downloads/release/python-3114/))
+1. Install python using official package. Please select python 3.11. You can dowload the installer [here](https://www.python.org/downloads/release/python-3114/)
 2. Install miniconda and then python, you can find the conda installation [here](https://docs.conda.io/en/latest/miniconda.html). Select 64 bit installer . 
 
 If you decide to install miniconda follow the installation instructions. If you choose the create a base enviroment you can activate and deactivate using (from the command prompt (windows) or terminal (mac/linux)):
