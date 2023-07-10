@@ -60,7 +60,13 @@ After jupyter starts (may take a few seconds) it will present a web address that
 
 `http://localhost:8888/lab?token=0f3194fd7b60fa5b92a909c94c83d2492d23e496dfc158c9`
 
-copy and paste that to your web browser and you should be able to see the launch screen. 
+copy and paste that to your web browser and you should be able to see the launch screen.
+
+If you run into issues for part1 you can use google colab, 
+
+go to https://colab.research.google.com 
+
+If you are not signed in please sign in and go to File > New notebook
 
 ### Part 2
 
